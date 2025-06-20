@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on **How many device connect to my Wi-Fi using python**
 
-- 🌱 I’m currently learning **SOC analyst techniques and real-world lab setups.**
+- 🌱 I’m currently learning **Python for security, web application security, SOC analyst techniques and real-world lab setups.**
+
+- 📝 **Sharing my learning journey and notes**
 
 - 👯 I’m looking to collaborate on **Cyber security learners**
 
-- 🤝 I’m looking for help with **Advanced Blue Team techniques and tools.**
+- 🤝 Open to collaborating on **beginner-friendly security projects**
 
-- 💬 Ask me about **SOC analyst**
+- 💬 Ask me about **SOC analyst, Blue Team, Web App Security, Malware Analysis**
 
 - 📫 How to reach me **akshayagouda943@gmail.com**
 
